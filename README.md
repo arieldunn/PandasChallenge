@@ -99,3 +99,6 @@ You must submit a link to your Github/Git Lab repo that contains your Jupyter No
 You must include a written description of at least two observable trends based on the data.
 See Example Solution for a reference on the expected format.
 
+
+•	After analyzing Math Scores by Grade and Reading Scores by Grade, we see that, in general, students have lower math scores compared to their reading scores. 
+•	After analyzing School Spending, we can note that there is not a correlation between higher school spending and average math or reading scores, the data shows the opposite, which is the more money spent, the lower the scores. I do believe we would need to analyze more data, in order to confirm this trend.
